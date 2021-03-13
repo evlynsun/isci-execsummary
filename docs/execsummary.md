@@ -19,10 +19,10 @@ Equipping Canada’s teachers with effective teaching strategies to supplement t
 **Table 1**: Description of the four most effective climate change teaching strategies (Monroe et al., 2019).
 Teaching Strategy | Pratical Methods to Implement in the Classroom
 ------------ | -------------
-Engaging in Discussion | - Deliberative discussion...
-Interacting with Scientists and Science | - Interaction with professionals...
-Addressing Misconceptions | - Most common misconception...
-Implementing school and community projects | - small projects...
+Engaging in Discussion | Deliberative discussions are useful for breaking down complex concepts, comparing perceptions, understanding opinions and conducting personal reflection. Teachers should facilitate an open environment of discussion and provide many opportunities for students to share. | 
+Interacting with Scientists and Science | Interaction with professionals helps students to design meaningful and relevant projects. Professionals are also able to aid with the process of data collection, hypothesis and project creation and analysis of data.Laboratory and botanical garden visits as potential day field trips help to inspire students about climate change science. |
+Addressing Misconceptions | Most common misconception is the conflation of climate change and the ozone hole. Teachers should 1) encourage students to share their current knowledge, 2) take successive steps to untangle complex ideas and concepts, 3) narrow content down to focus on key learning objectives, and 4) avoid unnecessary technical terminology.|
+Implementing school and community projects | Small projects and field trips help students to relate education in the classroom. Incorporating community related activities alongside theoretical concepts discussed in the classroom increases engagement and inspires students to self-educate outside of school.
 
 ## Conclusion
 
