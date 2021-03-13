@@ -31,30 +31,30 @@ To ensure the proper development and training of future scientific leaders, Cana
 ## References
 Alasmari, A. and Ahmed, S.S., 2013. Using Debate in EFL Classes. English Language Teaching, 6(1), pp.147.
 
-Alberta Education, 2014. Science (Elementary)  A.1(1996). [online] Alberta. Available at: <https://<span></span>education.alberta.ca/science-7-9/program-supports/>.
+Alberta Education, 2014. Science (Elementary)  A.1(1996). [online] Alberta. Available at: <https://<i></i>education.alberta.ca/science-7-9/program-supports/>.
 
-Alexandar, R. and Poyyamoli, G., 2012. Activity-Based Water Resources and Climate Change Education Among School Students in Puducherry. In: W. Leal Filho, ed. Climate Change and the Sustainable Use of Water Resources, Climate Change Management. [online] Berlin, Heidelberg: Springer.pp.557–578. Available at: <https://<span></span>doi.org/10.1007/978-3-642-22266-5_34> [Accessed 1 Mar. 2021].
+Alexandar, R. and Poyyamoli, G., 2012. Activity-Based Water Resources and Climate Change Education Among School Students in Puducherry. In: W. Leal Filho, ed. Climate Change and the Sustainable Use of Water Resources, Climate Change Management. [online] Berlin, Heidelberg: Springer.pp.557–578. Available at: <https://<i></i>doi.org/10.1007/978-3-642-22266-5_34> [Accessed 1 Mar. 2021].
 
 Anderson, A., 2012. Climate Change Education for Mitigation and Adaptation. Journal of Education for Sustainable Development, 6(2), pp.191–206.
 Berger, P., Gerum, N. and Moon, M., 2015. ‘Roll up Your Sleeves and Get at It!’ Climate Change Education in Teacher Education. Canadian Journal of Environmental Education, 20, pp.154–172.
 
 Boyes, E. and Stanisstreet, M., 1993. The ‘Greenhouse Effect’: children’s perceptions of causes, consequences and cures. International Journal of Science Education, 15(5), pp.531–552.
 
-British Columbia Ministry of Education, 2016. Area of Learning: Science. [pdf] British Columbia. Available at: <https://<span></span>curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/curriculum/science/en_science_k-9.pdf>.
+British Columbia Ministry of Education, 2016. Area of Learning: Science. [pdf] British Columbia. Available at: <https://<i></i>curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/curriculum/science/en_science_k-9.pdf>.
 
 Brody, M., 1996. An Assessment of 4th-, 8th-, and 11th-Grade Students’ Environmental Science Knowledge Related to Oregon’s Marine Resources. Journal of Environmental Education, 27(3), pp.21-27.
 
-Butler, C.D., 2018. Climate Change, Health and Existential Risks to Civilization: A Comprehensive Review (1989–2013). International Journal of Environmental Research and Public Health, [online] 15(10). Available at: <https://<span></span>www.ncbi.nlm.nih.gov/pmc/articles/PMC6210172/> [Accessed 7 Mar. 2021].
+Butler, C.D., 2018. Climate Change, Health and Existential Risks to Civilization: A Comprehensive Review (1989–2013). International Journal of Environmental Research and Public Health, [online] 15(10). Available at: <https://<i></i>www.ncbi.nlm.nih.gov/pmc/articles/PMC6210172/> [Accessed 7 Mar. 2021].
 
 Cordero, E.C., Centeno, D. and Todd, A.M., 2020. The role of climate change education on individual lifetime carbon emissions. PLOS ONE, 15(2), p.e0206266.
-Department of Education and Early Childhood Development, 2020. Science 8: Renewed Curriculum Gide. [pdf] Nova Scotia. Available at: <https://<span></span>curriculum.novascotia.ca/sites/default/files/documents/curriculum-files/Science%208%20Guide%20R%20%282020-21%29.pdf>.
+Department of Education and Early Childhood Development, 2020. Science 8: Renewed Curriculum Gide. [pdf] Nova Scotia. Available at: <https://<<i></i>curriculum.novascotia.ca/sites/default/files/documents/curriculum-files/Science%208%20Guide%20R%20%282020-21%29.pdf>.
 
 Dietz, M.E., Clausen, J.C. and Filchak, K.K., 2004. Education and Changes in Residential Nonpoint Source Pollution. Environmental Management, 34(5), pp.684–690.
 Faria, F., Klima, K., Posen, I.D. and Azevedo, I.M.L., 2015. A New Approach of Science, Technology, Engineering, and Mathematics Outreach in Climate Change, Energy, and Environmental Decision Making. Sustainability, 8(5), pp.261–271.
 
 Flink, C., Boggiano, A.K. and Barrett, M., 1990. Controlling Teaching Strategies: Undermining Children’s Self-Determination and Performance. Journal of personality and social psychology, 59(5), p.916-924.
 
-Government of Canada, S.C., 2021. Number of students in regular programs for youth, public elementary and secondary schools, by grade and sex. [online] Available at: <https://<span></span>www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710000701> [Accessed 7 Mar. 2021].
+Government of Canada, S.C., 2021. Number of students in regular programs for youth, public elementary and secondary schools, by grade and sex. [online] Available at: <https://<i></i>www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710000701> [Accessed 7 Mar. 2021].
 
 Hallar, A.G., McCubbin, I.B. and Wright, J.M., 2011. CHANGE: A Place-Based Curriculum for Understanding Climate Change at Storm Peak Laboratory, Colorado. Bulletin of the American Meteorological Society, 92(7), pp.909–918.
 
@@ -66,7 +66,7 @@ Klosterman, M.L. and Sadler, T.D., 2010. Multi‐level Assessment of Scientific 
 
 Lambert, J.L., Lindgren, J. and Bleicher, R., 2012. Assessing Elementary Science Methods Students’ Understanding About Global Climate Change. International Journal of Science Education, 34(8), pp.1167–1187.
 
-Manitoba Minister of Education and Training, 2000. Grade 5 to 8 Science: Manitoba Curriculum Framework of Outcomes. [pdf] Manitoba. Available at: <https://<span></span>www.edu.gov.mb.ca/k12/cur/science/outcomes/5-8/full_doc.pdf>.
+Manitoba Minister of Education and Training, 2000. Grade 5 to 8 Science: Manitoba Curriculum Framework of Outcomes. [pdf] Manitoba. Available at: <https://<i></i>www.edu.gov.mb.ca/k12/cur/science/outcomes/5-8/full_doc.pdf>.
 
 Mason, L. and Santi, M., 1998. Discussing the Greenhouse Effect: children’s collaborative discourse reasoning and conceptual change. Environmental Education Research, 4(1), pp.67–85.
 
@@ -78,19 +78,19 @@ Michail, S., Stamou, A.G. and Stamou, G.P., 2007. Greek primary school teachers�
 
 Monroe, M.C., Plate, R.R., Oxarart, A., Bowers, A. and Chaves, W.A., 2019. Identifying effective climate change education strategies: a systematic review of the research. Environmental Education Research, 25(6), pp.791–812.
 
-New Brunswick Department of Education, 2002. Atlantic Canada Science Curriculum: Science 8. [pdf] New Brunswick. Available at: <https://<span></span>www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/curric/Science/Science-Grade8.pdf>.
+New Brunswick Department of Education, 2002. Atlantic Canada Science Curriculum: Science 8. [pdf] New Brunswick. Available at: <https://<i></i>www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/curric/Science/Science-Grade8.pdf>.
 
-Newfoundland and Labrador Ministry of Education, 2012. Unit 1: Water Systems on Earth’s Surface. [pdf] Newfoundland and Labrador. Available at: <https://<span></span>www.gov.nl.ca/education/files/k12_curriculum_guides_science_grade8_unit_1_b_grd8_august_122011.pdf>.
+Newfoundland and Labrador Ministry of Education, 2012. Unit 1: Water Systems on Earth’s Surface. [pdf] Newfoundland and Labrador. Available at: <https://<i></i>www.gov.nl.ca/education/files/k12_curriculum_guides_science_grade8_unit_1_b_grd8_august_122011.pdf>.
 
-Ontario Ministry of Education, 2007. The Ontario Curriculum Grades 1-8: Science and Technology, 2007. [pdf] Ontario. Available at: <http://<span></span>www.edu.gov.on.ca/eng/curriculum/elementary/scientec18currb.pdf>.
+Ontario Ministry of Education, 2007. The Ontario Curriculum Grades 1-8: Science and Technology, 2007. [pdf] Ontario. Available at: <http://<i></i>www.edu.gov.on.ca/eng/curriculum/elementary/scientec18currb.pdf>.
 
-Prince Edward Island Department of Education, 2016. Prince Edward Island Science Curriculum: Grade 8. [pdf] Prince Edward Island. Available at: <https://<span></span>www.princeedwardisland.ca/sites/default/files/publications/grade_8_science_curriculum_guide.pdf>.
+Prince Edward Island Department of Education, 2016. Prince Edward Island Science Curriculum: Grade 8. [pdf] Prince Edward Island. Available at: <https://<i></i>www.princeedwardisland.ca/sites/default/files/publications/grade_8_science_curriculum_guide.pdf>.
 
 Pruneau, D., Gravel, H., Bourque, W. and Langis, J., 2003. Experimentation with a socio-constructivist process for climate change education. Environmental Education Research, 9(4), pp.429–446.
 
 Purnell, K., Sinclair, M. and Gralton, A., 2004. Sustainable Schools: Making Energy Efficiency a Lifestyle Priority. Australian Journal of Environmental Education, 20(2), pp.81–91.
 
-Québec Education Program, 2001. Science and Technology. [pdf] Québec. Available at: <http://<span></span>www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PFEQ_science-technologie-premier-cycle-secondaire_EN.pdf>.
+Québec Education Program, 2001. Science and Technology. [pdf] Québec. Available at: <http://<i></i>www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PFEQ_science-technologie-premier-cycle-secondaire_EN.pdf>.
 
 Reid, A., 2019. Climate change education and research: possibilities and potentials versus problems and perils? Environmental Education Research, 25(6), pp.767–790.
 
@@ -98,7 +98,7 @@ Reinfried, S., Aeschbacher, U. and Rottermann, B., 2012. Improving students’ c
 
 Rosen, Y., 2009. The Effects of an Animation-Based On-Line Learning Environment on Transfer of Knowledge and on Motivation for Science and Technology Learning. Journal of Educational Computing Research, 40(4), pp.451–467.
 
-Saskatchewan Ministry of Education, 2009. Saskatchewan Curriculum: Science Grade 8. [pdf] Saskatchewan. Available at: <https://<span></span>curriculum.nesd.ca/Curriculum%20Documents/science_8_2009.pdf>.
+Saskatchewan Ministry of Education, 2009. Saskatchewan Curriculum: Science Grade 8. [pdf] Saskatchewan. Available at: <https://<i></i>curriculum.nesd.ca/Curriculum%20Documents/science_8_2009.pdf>.
 
 Sellmann, D. and Bogner, F.X., 2013. Climate change education: quantitatively assessing the impact of a botanical garden as an informal learning environment. Environmental Education Research, 19(4), pp.415–429.
 
@@ -116,6 +116,6 @@ Wisner, B., 2010. Climate change and cultural diversity. International Social Sc
 
 Wynes, S. and Nicholas, K.A., 2019. Climate science curricula in Canadian secondary schools focus on human warming, not scientific consensus, impacts or solutions. PLOS ONE, 14(7), p.e0218305.
 
-Yukon First Nations Curriculum Working Group, 2020. Yukon Grade 8-9 Cross-Curricular Unit: Cliamte Change. [pdf] Yukon. Available at: <http://<span></span>lss.yukonschools.ca/uploads/4/5/5/0/45508033/e1_integratedunit_climatechange_98232_proof2.pdf>.
+Yukon First Nations Curriculum Working Group, 2020. Yukon Grade 8-9 Cross-Curricular Unit: Cliamte Change. [pdf] Yukon. Available at: <http://<i></i>lss.yukonschools.ca/uploads/4/5/5/0/45508033/e1_integratedunit_climatechange_98232_proof2.pdf>.
 
 Yusoff, K. and Gabrys, J., 2011. Climate change and the imagination. WIREs Climate Change, 2(4), pp.516–534.
