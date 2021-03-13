@@ -1,5 +1,5 @@
 # Climate Change Education in Canada
-By Bonny Chong, Jonathan Lai, Evlyn Sun, Maya Rajasingham
+By Bonny Chong, Jonathan Lai, Evlyn Sun & Maya Rajasingham
 
 ## Introduction
 Climate change is a daunting issue that can only be resolved by creative and collaborative actions. Although education is not as popular as other solutions, it has an immense role in enabling future generations to call out and respond innovatively to unsustainable practices surrounding mitigating climate change (Cordero, Centeno and Todd, 2020). However, students commonly have misconceptions about climate change, demonstrating the need for a more refined education system (Lambert, Lindgren and Bleicher, 2012). Therefore, this study aims to address the challenges in climate change education and provide a foundation for effective teaching in Canada.
