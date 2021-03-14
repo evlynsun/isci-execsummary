@@ -90,7 +90,7 @@ Pruneau, D., Gravel, H., Bourque, W. and Langis, J., 2003. Experimentation with 
 
 Purnell, K., Sinclair, M. and Gralton, A., 2004. Sustainable Schools: Making Energy Efficiency a Lifestyle Priority. Australian Journal of Environmental Education, 20(2), pp.81–91.
 
-Québec Education Program, 2001. Science and Technology. [pdf] Québec. Available at: <http://<i></i>www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PFEQ_science-technologie-premier-cycle-secondaire_EN.pdf>.
+Québec Education Program, 2001. Science and Technology. [pdf] Québec. Available at: <ht<span>tp://<i></i>w<span>ww.<\span>education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PFEQ_science-technologie-premier-cycle-secondaire_EN.pdf>.
 
 Reid, A., 2019. Climate change education and research: possibilities and potentials versus problems and perils? Environmental Education Research, 25(6), pp.767–790.
 
@@ -98,7 +98,7 @@ Reinfried, S., Aeschbacher, U. and Rottermann, B., 2012. Improving students’ c
 
 Rosen, Y., 2009. The Effects of an Animation-Based On-Line Learning Environment on Transfer of Knowledge and on Motivation for Science and Technology Learning. Journal of Educational Computing Research, 40(4), pp.451–467.
 
-Saskatchewan Ministry of Education, 2009. Saskatchewan Curriculum: Science Grade 8. [pdf] Saskatchewan. Available at: <https://<i></i>curriculum.nesd.ca/Curriculum%20Documents/science_8_2009.pdf>.
+Saskatchewan Ministry of Education, 2009. Saskatchewan Curriculum: Science Grade 8. [pdf] Saskatchewan. Available at: <ht<span>tps://<i></i>curriculum.nesd.ca/Curriculum%20Documents/science_8_2009.pdf>.
 
 Sellmann, D. and Bogner, F.X., 2013. Climate change education: quantitatively assessing the impact of a botanical garden as an informal learning environment. Environmental Education Research, 19(4), pp.415–429.
 
