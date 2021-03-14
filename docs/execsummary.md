@@ -44,7 +44,7 @@ British Columbia Ministry of Education, 2016. Area of Learning: Science. [pdf] B
 
 Brody, M., 1996. An Assessment of 4th-, 8th-, and 11th-Grade Students’ Environmental Science Knowledge Related to Oregon’s Marine Resources. Journal of Environmental Education, 27(3), pp.21-27.
 
-Butler, C.D., 2018. Climate Change, Health and Existential Risks to Civilization: A Comprehensive Review (1989–2013). International Journal of Environmental Research and Public Health, [online] 15(10). Available at: <https://<i></i>www.ncbi.nlm.nih.gov/pmc/articles/PMC6210172/> [Accessed 7 Mar. 2021].
+Butler, C.D., 2018. Climate Change, Health and Existential Risks to Civilization: A Comprehensive Review (1989–2013). International Journal of Environmental Research and Public Health, [online] 15(10). Available at: <ht<span>tps://<i></i>www.ncbi.nlm.nih.gov/pmc/articles/PMC6210172/> [Accessed 7 Mar. 2021].
 
 Cordero, E.C., Centeno, D. and Todd, A.M., 2020. The role of climate change education on individual lifetime carbon emissions. PLOS ONE, 15(2), p.e0206266.
 Department of Education and Early Childhood Development, 2020. Science 8: Renewed Curriculum Gide. [pdf] Nova Scotia. Available at: <https://<<i></i>curriculum.novascotia.ca/sites/default/files/documents/curriculum-files/Science%208%20Guide%20R%20%282020-21%29.pdf>.
