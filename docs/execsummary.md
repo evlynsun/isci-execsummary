@@ -80,11 +80,11 @@ Monroe, M.C., Plate, R.R., Oxarart, A., Bowers, A. and Chaves, W.A., 2019. Ident
 
 New Brunswick Department of Education, 2002. Atlantic Canada Science Curriculum: Science 8. [pdf] New Brunswick. Available at: <ht<span>tps://<i></i>w<span>ww2.<\span>gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/curric/Science/Science-Grade8.pdf>.
 
-Newfoundland and Labrador Ministry of Education, 2012. Unit 1: Water Systems on Earth’s Surface. [pdf] Newfoundland and Labrador. Available at: <https://<i></i>www.gov.nl.ca/education/files/k12_curriculum_guides_science_grade8_unit_1_b_grd8_august_122011.pdf>.
+Newfoundland and Labrador Ministry of Education, 2012. Unit 1: Water Systems on Earth’s Surface. [pdf] Newfoundland and Labrador. Available at: <ht<span>tps://<i></i>w<span>ww.<\span>gov.nl.ca/education/files/k12_curriculum_guides_science_grade8_unit_1_b_grd8_august_122011.pdf>.
 
-Ontario Ministry of Education, 2007. The Ontario Curriculum Grades 1-8: Science and Technology, 2007. [pdf] Ontario. Available at: <http://<i></i>www.edu.gov.on.ca/eng/curriculum/elementary/scientec18currb.pdf>.
+Ontario Ministry of Education, 2007. The Ontario Curriculum Grades 1-8: Science and Technology, 2007. [pdf] Ontario. Available at: <ht<span>tp://<i></i>w<span>ww.<\span>edu.gov.on.ca/eng/curriculum/elementary/scientec18currb.pdf>.
 
-Prince Edward Island Department of Education, 2016. Prince Edward Island Science Curriculum: Grade 8. [pdf] Prince Edward Island. Available at: <https://<i></i>www.princeedwardisland.ca/sites/default/files/publications/grade_8_science_curriculum_guide.pdf>.
+Prince Edward Island Department of Education, 2016. Prince Edward Island Science Curriculum: Grade 8. [pdf] Prince Edward Island. Available at: <ht<span>tps://<i></i>w<span>ww.<\span>princeedwardisland.ca/sites/default/files/publications/grade_8_science_curriculum_guide.pdf>.
 
 Pruneau, D., Gravel, H., Bourque, W. and Langis, J., 2003. Experimentation with a socio-constructivist process for climate change education. Environmental Education Research, 9(4), pp.429–446.
 
