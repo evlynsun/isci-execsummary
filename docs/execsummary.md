@@ -66,7 +66,7 @@ Klosterman, M.L. and Sadler, T.D., 2010. Multi‐level Assessment of Scientific 
 
 Lambert, J.L., Lindgren, J. and Bleicher, R., 2012. Assessing Elementary Science Methods Students’ Understanding About Global Climate Change. International Journal of Science Education, 34(8), pp.1167–1187.
 
-Manitoba Minister of Education and Training, 2000. Grade 5 to 8 Science: Manitoba Curriculum Framework of Outcomes. [pdf] Manitoba. Available at: <https://<i></i>www.edu.gov.mb.ca/k12/cur/science/outcomes/5-8/full_doc.pdf>.
+Manitoba Minister of Education and Training, 2000. Grade 5 to 8 Science: Manitoba Curriculum Framework of Outcomes. [pdf] Manitoba. Available at: <ht<span>tps://<i></i>w<span>ww.</span>edu.gov.mb.ca/k12/cur/science/outcomes/5-8/full_doc.pdf>.
 
 Mason, L. and Santi, M., 1998. Discussing the Greenhouse Effect: children’s collaborative discourse reasoning and conceptual change. Environmental Education Research, 4(1), pp.67–85.
 
@@ -78,7 +78,7 @@ Michail, S., Stamou, A.G. and Stamou, G.P., 2007. Greek primary school teachers�
 
 Monroe, M.C., Plate, R.R., Oxarart, A., Bowers, A. and Chaves, W.A., 2019. Identifying effective climate change education strategies: a systematic review of the research. Environmental Education Research, 25(6), pp.791–812.
 
-New Brunswick Department of Education, 2002. Atlantic Canada Science Curriculum: Science 8. [pdf] New Brunswick. Available at: <https://<i></i>www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/curric/Science/Science-Grade8.pdf>.
+New Brunswick Department of Education, 2002. Atlantic Canada Science Curriculum: Science 8. [pdf] New Brunswick. Available at: <ht<span>tps://<i></i>w<span>ww2.<\span>gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/curric/Science/Science-Grade8.pdf>.
 
 Newfoundland and Labrador Ministry of Education, 2012. Unit 1: Water Systems on Earth’s Surface. [pdf] Newfoundland and Labrador. Available at: <https://<i></i>www.gov.nl.ca/education/files/k12_curriculum_guides_science_grade8_unit_1_b_grd8_august_122011.pdf>.
 
